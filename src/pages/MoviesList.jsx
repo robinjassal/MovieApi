@@ -24,4 +24,4 @@ function MoviesList({ apiPath, title }) {
 }
 
 export default MoviesList;
-//  "https://api.themoviedb.org/3/movie/now_playing?api_key=e708357a077c674400e3dd238f6138a0"
+
